@@ -1,8 +1,8 @@
 ## Backdoor
 
 A packet-sniffing backdoor application that:
-- reads commands from the client
-- executes the commands on the server
+- reads shell script commands from the client
+- executes the shell script commands on the server
 - sends the command output to the client
 - encrypts sending data using AES cipher with encryption key and salt value
 - decrypts receiving data using AES cipher with encryption key and salt value
