@@ -1,6 +1,4 @@
-# COMP8505_ASG3
-
-## COMP 8505 - Assignment 3
+## Backdoor
 
 A packet-sniffing backdoor application that:
 - reads commands from the client
